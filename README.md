@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+Design : https://pixel.buildwithangga.com/details/package-trip-ui-design-mobile
+
+![image](https://user-images.githubusercontent.com/63090705/122661861-e3be0180-d1b8-11eb-8a6a-7d3717fc295b.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
